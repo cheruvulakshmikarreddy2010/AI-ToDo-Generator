@@ -16,22 +16,6 @@ A Flask-based web application that generates a personalized to-do list based on 
 - CSS3
 - JavaScript
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-python app.py
-```
-
-Open your browser and visit:
-
-```
-http://127.0.0.1:5000
-```
-
-## Project Structure
-
-```
 Smart-ToDo-Generator/
 ├── app.py
 ├── requirements.txt
@@ -41,6 +25,31 @@ Smart-ToDo-Generator/
     ├── style.css
     └── script.js
 ```
+
+# ▶️ How to Run
+
+1. Clone the repository
+
+```
+git clone https://github.com/cheruvulakshmikarreddy2010/AI-ToDo-Generator
+```
+
+2. Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+3. Run the application
+
+```
+python app.py
+```
+
+4. Open your browser
+
+```
+http://127.0.0.1:5000
 
 ## Future Improvements
 - Save tasks using a database
