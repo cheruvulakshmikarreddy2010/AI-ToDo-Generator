@@ -1,4 +1,4 @@
-# Smart To-Do List Generator
+# AI To-Do List Generator
 
 A Flask-based web application that generates a personalized to-do list based on a user's goal, deadline, and priority.
 
