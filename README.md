@@ -52,7 +52,7 @@ Smart-ToDo-Generator/
 
 ## Screenshots
 
-![Home](Screenshots/home-page.png)
+![Home](screenshots/home-page.png)
 
 
 
