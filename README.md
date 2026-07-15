@@ -29,9 +29,9 @@ Smart-ToDo-Generator/
 # ▶️ How to Run
 
 1. Clone the repository
-
+```
 git clone https://github.com/cheruvulakshmikarreddy2010/AI-ToDo-Generator
-
+```
 
 2. Install dependencies
 
