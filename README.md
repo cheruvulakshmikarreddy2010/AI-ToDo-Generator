@@ -16,15 +16,7 @@ A Flask-based web application that generates a personalized to-do list based on 
 - CSS3
 - JavaScript
 
-Smart-ToDo-Generator/
-├── app.py
-├── requirements.txt
-├── templates/
-│   └── index.html
-└── static/
-    ├── style.css
-    └── script.js
-```
+
 
 # ▶️ How to Run
 
