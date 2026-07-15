@@ -48,5 +48,13 @@ Smart-ToDo-Generator/
 - Task completion tracking
 - AI-powered task generation
 
+  ## Screenshots
+
+![Home Page](screenshots/home.png)
+
+![Todo Page](screenshots/generated-todo-list.png)
+
+
+
 ## Author
 Lakshmikar Reddy Cheruvu
