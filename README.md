@@ -50,7 +50,11 @@ Smart-ToDo-Generator/
 
   ## Screenshots
 
+## Screenshots
+
 ![Home](Screenshots/home-page.png)
+
+
 
 ![Todo Page](screenshots/generated-todo-list.png)
 
